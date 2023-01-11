@@ -1,0 +1,42 @@
+body{background-color: darkgray;
+
+}
+
+h1{font-family: serif;
+
+}
+
+#nav{
+    list-style: none;
+    display: flex;
+    background-color: lightpink;
+}
+.items{
+    display: block;
+    padding: 10px 15px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover{
+    color: black;
+    background-color: powderblue;
+}
+
+#cooking{
+    color: aquamarine;
+}
+
+#shopping{
+    color: palegreen;
+}
+
+#image{
+    color: chocolate;
+}
+div{
+    background-color:wheat;
+}

@@ -1,0 +1,29 @@
+div{
+
+}
+
+
+
+
+
+
+.box1{
+    background-color: aquamarine;
+    width: 50%;
+    border: 1px black solid;
+    height: 50%;
+
+}
+
+#box2{
+    background-color: crimson;
+    width: 50%;
+    border: 5px black solid;
+    border-radius: 10px;
+    height: 100%;
+
+}
+
+body{
+    background-color: rgb(237, 250, 250);
+}
